@@ -135,7 +135,9 @@ At the end of the study, it was found that with the same order, the similarity o
 REFERENCES
 
 [1]	https://rosettacode.org/wiki/Levenshtein_distance#Java
+
 [2]	https://stackoverflow.com/questions/1844688/how-to-read-all-files-in-a-folder-from-java
+
 [3]	https://github.com/belenyasin/Java-Gecen-Sure-Hesaplama
 
 
