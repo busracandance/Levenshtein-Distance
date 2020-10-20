@@ -18,7 +18,7 @@ A.	Methods, Inputs, and Outputs of the Program
     •	Inputs- Any text.
     •	Outputs- Total running time and all words written incorrect with their first 5 alternative correct words.
 
-IV.	TEST RESULTS
+III.	TEST RESULTS
 
 Respectively,
 
